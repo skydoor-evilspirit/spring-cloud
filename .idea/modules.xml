@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/aispringcloud.iml" filepath="$PROJECT_DIR$/aispringcloud/aispringcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/config-for-github-server/config-for-github-server.iml" filepath="$PROJECT_DIR$/aispringcloud/config-for-github-server/config-for-github-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/aispringcloud/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/aispringcloud/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/feign/feign.iml" filepath="$PROJECT_DIR$/aispringcloud/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/aispringcloud/hystrix/hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/resttemplate/resttemplate.iml" filepath="$PROJECT_DIR$/aispringcloud/resttemplate/resttemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/aispringcloud/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/springconfigclient/springconfigclient.iml" filepath="$PROJECT_DIR$/aispringcloud/springconfigclient/springconfigclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/springconfigserver/springconfigserver.iml" filepath="$PROJECT_DIR$/aispringcloud/springconfigserver/springconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aispringcloud/zuul/zuul.iml" filepath="$PROJECT_DIR$/aispringcloud/zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
